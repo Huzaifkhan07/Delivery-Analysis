@@ -25,9 +25,9 @@ Follow these steps to set up and run the project on your local machine:
 ## Dependencies
 This project uses the following dependencies:
 
-SQL: Structured Query Language for data retrieval and analysis.
-Python: For data preprocessing and handling.
-Pandas: Python library for data manipulation and cleaning.
-Matplotlib / Seaborn: For data visualization (if required).
-Jupyter Notebook: For running Python analysis scripts.
+• SQL: Structured Query Language for data retrieval and analysis.
+• Python: For data preprocessing and handling.
+• Pandas: Python library for data manipulation and cleaning.
+• Matplotlib / Seaborn: For data visualization (if required).
+• Jupyter Notebook: For running Python analysis scripts.
 
